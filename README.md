@@ -156,7 +156,7 @@ I specialize in full-stack development, with a passion for building scalable web
 ## 🕹️ My GitHub Skyline
 
 Check out my GitHub Skyline for an interactive 3D view of my contribution graph:
-[GitHub Skyline for hrnph](https://skyline.github.com/hrnph/2024)
+[GitHub Skyline for hrnph](https://skyline.github.com/hrnph/2023)
 
 ## 👀 Profile Views
 
