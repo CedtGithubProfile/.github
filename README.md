@@ -152,6 +152,9 @@ I specialize in full-stack development, with a passion for building scalable web
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hrnph)
 
+## Github Contrivution Stats
+![hrnph's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hrnph)
+
 ## 🛠️ Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrnph&layout=compact&theme=radical)
