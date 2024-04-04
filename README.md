@@ -99,6 +99,14 @@ Code block
 ```
 
 # Example Of Github Profile
+## CEDT Badges
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-data-algo.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/look-at-my-grade.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+
 # Hello, I'm a Software Engineer! 👋
 
 I specialize in full-stack development, with a passion for building scalable web applications and working on open-source projects. Here's a quick overview of my GitHub stats and some interesting projects I've contributed to.
@@ -152,11 +160,6 @@ I specialize in full-stack development, with a passion for building scalable web
 
 - AWS Certified Solutions Architect
 - Certified Kubernetes Administrator
-
-## 🕹️ My GitHub Skyline
-
-Check out my GitHub Skyline for an interactive 3D view of my contribution graph:
-[GitHub Skyline for hrnph](https://skyline.github.com/hrnph/2023)
 
 ## 👀 Profile Views
 
