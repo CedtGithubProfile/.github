@@ -105,8 +105,8 @@ Code block
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-data-algo.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/look-at-my-grade.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-
 # Hello, I'm a Software Engineer! 👋
 
 I specialize in full-stack development, with a passion for building scalable web applications and working on open-source projects. Here's a quick overview of my GitHub stats and some interesting projects I've contributed to.
